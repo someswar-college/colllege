@@ -1,4 +1,4 @@
 # college
-author-someswar piri
+author-someswar (college)
 <br> 
 this is my first project
