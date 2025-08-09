@@ -1,2 +1,2 @@
-# colllege
+# college
 author-someswar piri
